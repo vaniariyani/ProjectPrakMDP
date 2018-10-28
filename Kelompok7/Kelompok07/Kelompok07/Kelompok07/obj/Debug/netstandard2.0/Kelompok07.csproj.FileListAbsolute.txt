@@ -1,0 +1,27 @@
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok7\Kelompok07\Kelompok07\Kelompok07\bin\Debug\netstandard2.0\Kelompok07.deps.json
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok7\Kelompok07\Kelompok07\Kelompok07\bin\Debug\netstandard2.0\Kelompok07.dll
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok7\Kelompok07\Kelompok07\Kelompok07\bin\Debug\netstandard2.0\Kelompok07.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\Kelompok07.csprojAssemblyReference.cache
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\Kelompok07.csproj.CoreCompileInputs.cache
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\Kelompok07.AssemblyInfoInputs.cache
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\Kelompok07.AssemblyInfo.cs
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\Kelompok07.dll
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\Kelompok07.pdb
+D:\Downloads\Kelompok7\Kelompok07\Kelompok07\Kelompok07\bin\Debug\netstandard2.0\Kelompok07.deps.json
+D:\Downloads\Kelompok7\Kelompok07\Kelompok07\Kelompok07\bin\Debug\netstandard2.0\Kelompok07.dll
+D:\Downloads\Kelompok7\Kelompok07\Kelompok07\Kelompok07\bin\Debug\netstandard2.0\Kelompok07.pdb
+D:\Downloads\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\Kelompok07.csprojAssemblyReference.cache
+D:\Downloads\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\Kelompok07.csproj.CoreCompileInputs.cache
+D:\Downloads\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\Kelompok07.App.xaml.g.cs
+D:\Downloads\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\Kelompok07.LoginPage.xaml.g.cs
+D:\Downloads\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\Kelompok07.MainPage.xaml.g.cs
+D:\Downloads\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\Kelompok07.SignUpPage.xaml.g.cs
+D:\Downloads\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\Kelompok07.AssemblyInfoInputs.cache
+D:\Downloads\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\Kelompok07.AssemblyInfo.cs
+D:\Downloads\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\Kelompok07.dll
+D:\Downloads\Kelompok7\Kelompok07\Kelompok07\Kelompok07\obj\Debug\netstandard2.0\Kelompok07.pdb
